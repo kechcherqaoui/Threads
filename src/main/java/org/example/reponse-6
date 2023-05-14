@@ -1,0 +1,1 @@
+Les 10 threads sont exécutés en parallèle, c'est pour cela que les messages sont imprimés de manière désordonnée.
